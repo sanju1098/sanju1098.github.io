@@ -29,7 +29,7 @@ Bangalore, Karnataka.</i></b>
 <b>TCI Tech Foundation (College Internship)<b>
 <b><i>July 2019 – August 2019
 Bangalore, Karnataka.</i></b>
-</pre>
+
 
 ---
 
