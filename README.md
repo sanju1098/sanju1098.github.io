@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+## Portfolio
 
-You can use the [editor on GitHub](https://github.com/sanju1098/sanju1098.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a Frontend Developer with an experience of 1 year. <br>
+Experienced in Developing Web-Based Applications using HTML, CSS, JavaScript and JavaScript-based library React JS.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## Skills
+<b>Technologies:- </b> HTML5, CSS3, JavaScript, React JS, Core Java, Bootstrap, WordPress.<br>
+<b>Databases:- </b> MySQL, PostgreSQL, MongoDB.<br>
+<b>IDE & Tools:- </b> IntelliJ, VS Code, Git .
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+## Experience
 
-# Header 1
-## Header 2
-### Header 3
+<pre>
+<h1>FRONTEND DEVELOPER</h1>
+<b>CHKDIN (A Unit of Harlalka Services India Pvt. Ltd.)<b>
+<b><i>October 2021 – Present
+Bangalore, Karnataka</i><b>
+</pre>
 
-- Bulleted
-- List
+<pre>
+<h1>WEB DEVELOPER</h1>
+<b>Sixth Circle Technologies Pvt Ltd<b>
+<b><i>February 2021 – August 2021
+Bangalore, Karnataka.</i><b>
+</pre>
 
-1. Numbered
-2. List
+<pre>
+<h1>INTERN SOFTWARE DEVELOPER</h1>
+<b>TCI Tech Foundation (College Internship)<b>
+<b><i>July 2019 – August 2019
+Bangalore, Karnataka.</i><b>
+</pre>
+---
 
-**Bold** and _Italic_ and `Code` text
+## Education
 
-[Link](url) and ![Image](src)
-```
+### **T JOHN INSTITUTE OF TECHNOLOGY**
+#### Bachelor of Engineering in Computer Science | 2016 - 2020.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### **VIJAYA PRE-UNIVERSITY COLLEGE**
+#### PUC (Science - PCME)  | 2016.
 
-### Jekyll Themes
+### **SRI VINAYAKA SUNRISE ENGLISH SCHOOL**
+#### SSLC | 2014.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sanju1098/sanju1098.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
