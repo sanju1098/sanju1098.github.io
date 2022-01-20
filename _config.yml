@@ -1,1 +1,11 @@
+title: Sanjay Kumar S R 
+logo: "/profile.png?raw=true" 
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Front End Developer
+  <br><br>
+  <a href="mailto:kumar.sanjay101998@gmail.com">kumar.sanjay101998@gmail.com</a>
+  <br>
+  <a href="https://www.linkedin.com/in/sanjay-kumar-s-r/">LinkedIn Profile</a>
+  <br>
+  <a href="https://github.com/sanju1098/">Gihub</a> 
 theme: jekyll-theme-minimal
