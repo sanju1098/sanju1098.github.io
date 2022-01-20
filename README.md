@@ -30,18 +30,3 @@ Bangalore, Karnataka.</i></b>
 <b><i>July 2019 – August 2019
 Bangalore, Karnataka.</i></b>
 
-
----
-
-## Experience
-
-### **T JOHN INSTITUTE OF TECHNOLOGY**
-#### Bachelor of Engineering in Computer Science | 2016 - 2020.
-
-### **VIJAYA PRE-UNIVERSITY COLLEGE**
-#### PUC (Science - PCME)  | 2016.
-
-### **SRI VINAYAKA SUNRISE ENGLISH SCHOOL**
-#### SSLC | 2014.
-
----
